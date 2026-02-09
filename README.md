@@ -1,5 +1,64 @@
-# 💫 About Me:
-🔭 I’m currently working on mobile app<br>🤝 I know python, js, typescript, html, css<br>🌱 I’m currently learning Javascript<br>
+<!-- Profile README for g0dange -->
+
+<h1 align="center">Merhaba, ben g0dange 👋</h1>
+<p align="center">
+  Discord bot geliştiriyorum • Otomasyon • Web projeleri
+</p>
+
+---
+
+## Hakkımda
+- 🚀 Şu an: **ReadSage** üzerinde çalışıyorum
+- 🤖 İlgi alanı: Discord botlar, API entegrasyonları, otomasyon
+- 🧰 Kullandıklarım: Node.js / TypeScript / Git / Linux
+- 📌 Hedef: Daha temiz kod + daha iyi dokümantasyon + düzenli open-source
+
+---
+
+## Öne Çıkan Projeler
+- **ReadSage** — Kısa açıklama (1 cümle)  
+  Repo: https://github.com/g0dange/ReadSage
+
+- **Proje 2** — Kısa açıklama (1 cümle)  
+  Repo: https://github.com/g0dange/PROJE-ADI
+
+- **Proje 3** — Kısa açıklama (1 cümle)  
+  Repo: https://github.com/g0dange/PROJE-ADI
+
+> İpucu: Bu listeyi profilinde “Pinned” yaptığın repolarla aynı tut.
+
+---
+
+## Teknolojiler
+**Dil / Araçlar**
+- JavaScript, TypeScript
+- Git, GitHub
+- Linux
+
+**Öğreniyorum**
+- Docker
+- CI/CD (GitHub Actions)
+- Database (PostgreSQL / Prisma)
+
+---
+
+## Nasıl Çalışıyorum
+- ✅ Küçük ama düzenli commit
+- ✅ README ve kurulum adımları net
+- ✅ Issue / TODO listesi ile planlı geliştirme
+
+---
+
+## İletişim
+- 📫 Email: readsage@example.com
+- 🌐 Website/Portfolio: (varsa ekle)
+- 💬 Discord: (istersen ekle)
+
+---
+
+<p align="center">
+  <sub>Son güncelleme: 2026</sub>
+</p>
 
 
 # 💻 Tech Stack:
